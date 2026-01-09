@@ -12,4 +12,4 @@ A robust Command Line Interface (CLI) game developed in Java where the user gues
 1. Compile the file: `javac Main.java`
 2. Run the game: `java Main`
 
-##This projec is a part of https://roadmap.sh/projects/number-guessing-game.
+##This project is a part of https://roadmap.sh/projects/number-guessing-game.
